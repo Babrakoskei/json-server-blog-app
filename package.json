@@ -1,0 +1,31 @@
+{
+  "name": "json-server-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "engines": {
+    "node": "14.18.2",
+    "npm": "8.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Babrakoskei/Blog-app-json-server.git"
+  },
+  "keywords": [
+    "heroku",
+    "json-server",
+    "REST",
+    "API",
+    "node"
+  ],
+  "author": "Babra Chelangat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Babrakoskei/Blog-app-json-server/issues"
+  },
+  "homepage": "https://github.com/Babrakoskei/Blog-app-json-server#readme"
+}
